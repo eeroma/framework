@@ -44,6 +44,8 @@ All you need to start with it is JDK 8 and an https://en.wikipedia.org/wiki/Inte
 While this tutorial is written for Eclipse users, you can use your IDE of choice.
 No extensive knowledge of Java is needed, only basic programming skills are required.
 
+TIP: Download the Book of Vaadin to get a thorough understanding on how to use the Vaadin Framework 8 to your full advantage. You can download the book for free as a PDF HERE[vaadin.com/docs/v8/index.html#book-of-vaadin].
+
 [[framework.tutorial.overview]]
 == Overview
 
